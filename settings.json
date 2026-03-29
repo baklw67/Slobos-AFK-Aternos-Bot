@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nig_ga123.aternos.me"
-",
+    "ip": "nig_ga123.aternos.me", 
+    
     "port": 18220,
     "version": "",
     "try-creative": false
